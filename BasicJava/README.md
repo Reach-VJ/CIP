@@ -13,7 +13,7 @@
 
 **Explicit or widening** : Converting lower to higher primitive.
 
-byte --> Short/char --> int --> long --> float --> double
+*Flow* : byte --> Short/char --> int --> long --> float --> double
 
 *Note* : Float 32 bit, but it stores precision values. long to float conversion called as 
 widening.
