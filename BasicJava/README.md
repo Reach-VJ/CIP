@@ -20,8 +20,11 @@ widening.
 
 **Implicit or narrowing** : Converting higher to lower primitive.
 
-**BuffereReader** : Reading Character stream, Synchronized, Specify buffer size, read
+**BufferedReader** : Reading Character stream, Synchronized, Specify buffer size, read
 large input. Disadvantage : Catch exception, extra code to parse to specific type.
+
+**Scanner** : Simplified version of buffered reader, not Synchronized. Suits for small input,
+predefined methods
 
 
 
