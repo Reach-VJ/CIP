@@ -55,4 +55,18 @@ x *=y --> x = x * y;
 
 x %=y --> x = x % y;
 
+**Logical Operators** : &&, ||, !
 
+&& --> true if both true 
+
+|| --> ture if one of them true
+
+! --> ture if condition is false, false if condition is true
+
+*Logical Operator short-circuiting* : 
+
+if(x && y) if x is false, it will not execute y.
+
+if(x || y) if x is true, it will not execute y
+
+**Relational Operators** : Generally compares the values --> ==, !=, <, >, >=, <=
