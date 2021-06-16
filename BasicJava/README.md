@@ -37,5 +37,18 @@ predefined methods
 **Escape Sequences** : \ It will escape char after backslash.
 *Note* : Verify this class --> EscapeSequence
 
+**Operators** : 
+
+**Incremental operators**
+
+*x++ (z = x++)* : --> It is a combination of two operators. z = x, x = x+1.
+
+*++x (z = ++x)* : --> It is a combination of two operators. x = x+1, z = x.
+
+**Assignment Operators** : =, +=, -=, *=, %=
+x += y --> x = x+y;
+x -= y --> x = x-y;
+x *=y --> x = x * y;
+x %=y --> x = x % y;
 
 
