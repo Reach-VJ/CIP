@@ -46,9 +46,13 @@ predefined methods
 *++x (z = ++x)* : --> It is a combination of two operators. x = x+1, z = x.
 
 **Assignment Operators** : =, +=, -=, *=, %=
+
 x += y --> x = x+y;
+
 x -= y --> x = x-y;
+
 x *=y --> x = x * y;
+
 x %=y --> x = x % y;
 
 
