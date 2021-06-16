@@ -28,7 +28,7 @@ predefined methods
 
 **PrintOrPrintln** : Printing the data to console
 
-**format or printf** : Printing the data in specified format.
+**format or printf** : Both do same functionality, Printing the data in specified format.
 
 *Note* : Refer OutputInJavaFormatOrPrintf
 
