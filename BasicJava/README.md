@@ -26,5 +26,11 @@ large input. Disadvantage : Catch exception, extra code to parse to specific typ
 **Scanner** : Simplified version of buffered reader, not Synchronized. Suits for small input,
 predefined methods
 
+**PrintOrPrintln** : Printing the data to console
+
+**format or printf** : Printing the data in specified format.
+
+*Note* : Refer OutputInJavaFormatOrPrintf
+
 
 
