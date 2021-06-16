@@ -32,5 +32,10 @@ predefined methods
 
 *Note* : Refer OutputInJavaFormatOrPrintf
 
+**Command Line Arguments** : java CommandLineArguments One Two Three Four
+
+**Escape Sequences** : \ It will escape char after backslash.
+*Note* : Verify this class --> EscapeSequence
+
 
 
