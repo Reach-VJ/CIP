@@ -99,3 +99,10 @@ if(x || y) if x is true, it will not execute y
     i/p : 2,4,8,16,32
     a = starting number, r = multiplier, n = 5
     a = 2, r = 2, n = 5. Answer : 2 * 2 power of 4 : 32
+
+**Sum of n natural number** : Sum = n*(n+1)/2
+
+**Find last digit of number** : Ans : n%10, take absolute value for nigative number
+    
+    Number : 123, ans : 123%10 = 3. 
+    Number : -123, ans : Math.abs(-123)%10 = 3
