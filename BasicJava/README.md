@@ -84,4 +84,18 @@ if(x || y) if x is true, it will not execute y
 
 *Bitwise ~ NOT* : Inverse of bits 
     x = 3 (0000 0011) ~x = 1111 1100 (2 power 32 -1-3 : -4)
-  
+
+*Bitwise left shift (<<)* x = 2 (0000 0010) x<<1 : 0000 0100 (4)
+
+*Bitwise right shift* : x >> 1 : Shift right to one bit, fill zeros at left side(not for -ve numbers).
+
+*Bitwise unsigned right shift* : Shift right to bits, fill zeros at left side for all numbers.
+
+**Nth term of Arithmetic Progression** : Formula --> a + (n-1) * d
+    a = starting number, d = difference, n = nth number
+    a = 2, d = 1, n = 5. Answer : 6
+
+**Nth term of Geometric Progression** : Formula --> a * r power of n-1
+    i/p : 2,4,8,16,32
+    a = starting number, r = multiplier, n = 5
+    a = 2, r = 2, n = 5. Answer : 2 * 2 power of 4 : 32
