@@ -70,3 +70,18 @@ if(x && y) if x is false, it will not execute y.
 if(x || y) if x is true, it will not execute y
 
 **Relational Operators** : Generally compares the values --> ==, !=, <, >, >=, <=
+
+**Bitwise Operators** : 
+
+*Bitwise &* : if both bits are 1, output is 1.
+  x = 3, y = 6, x bits : 0011, y bits : 0110, x & y = 0010 (2)
+
+*Bitwise |* : if any bit is 1, output is 1.
+    x = 3, y = 6, x bits : 0011, y bits : 0110, x & y = 0111 (7)
+
+*Bitwise ^ XOR* : if both bits are different, output is 1.
+    x = 3, y = 6, x bits : 0011, y bits : 0110, x & y = 0101 (5)
+
+*Bitwise ~ NOT* : Inverse of bits 
+    x = 3 (0000 0011) ~x = 1111 1100 (2 power 32 -1-3 : -4)
+  
