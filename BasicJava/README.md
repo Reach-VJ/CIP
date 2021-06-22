@@ -106,3 +106,11 @@ if(x || y) if x is true, it will not execute y
     
     Number : 123, ans : 123%10 = 3. 
     Number : -123, ans : Math.abs(-123)%10 = 3
+
+**Arrays Advantages and Disadvantages**
+    Adv : Random access and Cache friendly
+    Dis : Insertion and deletions are slow
+          Search is also slow in unsorted array.
+ *Dimensions* : One and multi.
+ *Size* : Fixed and Dynamic.
+
