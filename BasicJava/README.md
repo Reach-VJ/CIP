@@ -114,3 +114,13 @@ if(x || y) if x is true, it will not execute y
  *Dimensions* : One and multi.
  *Size* : Fixed and Dynamic.
 
+**Constructor** : Java provide default constructor.
+
+    *Note* : If user define own constructor, cant access default constructor.
+
+**Access Modifiers**
+    
+    Private : With in a class
+    Default : With in the package
+    Protected : With in the package and child class of other package
+    Public : Anywhere
